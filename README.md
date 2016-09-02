@@ -15,10 +15,18 @@ Ingeniero de Sistemas, Mestrante en Gestión de TI en la UNAD, Auditor certifica
 
 ##Estudios Universitarios
 
--Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Maestría en Gestión de Tecnología de Información,  2016, Actualmente 
+- Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Maestría en Gestión de Tecnología de Información,  2016, Actualmente 
 
 
--Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Ingeniero de Sistemas,  2002-2007
+- Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Ingeniero de Sistemas,  2002-2007
+Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Maestría en Gestión de Tecnología de Información,  2016, Actualmente 
+
+
+- Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Maestría en Gestión de Tecnología de Información,  2016, Actualmente 
+
+
+- Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Ingeniero de Sistemas,  2002-2007
+Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Ingeniero de Sistemas,  2002-2007
 
 - Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Tecnólogo en Sistemas,  2002-2004
 
