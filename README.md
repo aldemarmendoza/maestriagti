@@ -56,18 +56,22 @@ Universidad Nacional Abierta y a Distancia, Valledupar, Cesar, Colombia. Ingenie
 
 #EXPERIENCIA PROFESIONAL
 
-•	Universidad Nacional Abierta y a Distancia, Profesional Universitario Grado 11, Septiembre 1 de 2010, Actual, Gerencia de Innovación y Desarrollo Tecnológico, Calle 39 Nº 4B – 02, Tel. 5824634, Valledupar-Cesar.
+•	UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA - UNAD, Profesional Universitario Grado 11, Septiembre 1 de 2010, Actual, Gerencia de Innovación y Desarrollo Tecnológico, Calle 39 Nº 4B – 02, Tel. 5824634, Valledupar-Cesar.
 
-•	Universidad Nacional Abierta y a Distancia, Contratista como Ingeniero de Sistemas, Octubre 21 de 2005, Agosto 31 de 2010, Gerencia de Innovación y Desarrollo Tecnológico, Calle 39 Nº 4B – 02, Tel. 5824634, Valledupar-Cesar.
+•	UNIVERSIDAD NACIONAL ABIERTA Y A DISTANCIA - UNAD, Contratista como Ingeniero de Sistemas, Octubre 21 de 2005, Agosto 31 de 2010, Gerencia de Innovación y Desarrollo Tecnológico, Calle 39 Nº 4B – 02, Tel. 5824634, Valledupar-Cesar.
 
 •	CENTRO EDUCATIVO DE SISTEMAS UPARSISTEM, Docente de Base de Datos II, Julio de 2008, Julio de 2009, Programa Tecnología en Sistemas, Calle 16 A Nº 12 – 36, Tel. 5606314 - 5606315 - 5746888 - 5743427 - 5706416, Valledupar-Cesar.
  
 
 •	IMECTRO LTDA – Procesos Industriales, Soporte y Desarrollo de Software, 12 de Noviembre de 2005 – 31 de Diciembre de 2006, Oficina de Desarrollo y Soporte, Cra 71 C Nº 53 A – 17 Oficina 203, 091 2950864,  Bogotá D. C.
 
-•	Universidad Popular del Cesar, Analista de Sistemas, 15 de diciembre  de 1997 – 05 de abril de 2005. Oficina de Informática y Sistemas, Balneariio Hurtado, Valledupar, Cesár.  
+•	UNIVERSIDAD POPULAR DEL CESAR, Analista de Sistemas, 15 de diciembre  de 1997 – 05 de abril de 2005. Oficina de Informática y Sistemas, Balneariio Hurtado, Valledupar, Cesár.  
 
 •	CORPORACIÓN INSTITUTO DE ARTES Y CISENCIAS (C.I.A.C) 1996 - 1997. Catedrático. Programa de Análisis y Programación de Computadores, Calle 58 No.55-24ª, Teléfonos 344 2272 - 344 4868 - 344 4931 - 344 4361, Barranquilla, Atlántico 
+
+
+
+##Aldemar José Mendoza Alvarez
 
 
 
