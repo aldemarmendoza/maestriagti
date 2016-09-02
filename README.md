@@ -1,10 +1,11 @@
 # HOJA DE VIDA
 
 ## ALDEMAR MENDOZA ALVAREZ
+
+https://github.com/aldemarmendoza/maestriagti/blob/master/fotoaldemar.jpg
+
 Celular, Whatsapp: 3008384111
-
 Email: aldemarmendoza@gmail.com
-
 Valledupar, Cesar - Colombia
 
 #PERFIL PROFESIONAL
